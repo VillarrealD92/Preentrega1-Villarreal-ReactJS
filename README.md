@@ -1,1 +1,1 @@
-Pirmera preentrega del curso ReactJS en coderhouse
+Primera preentrega del curso ReactJS en coderhouse

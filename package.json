@@ -1,6 +1,6 @@
 {
   "name": "preentrega1-react",
-  "homegae": "https://villarreald92.github.io/Preentrega1-Villarreal-ReactJS/",
+  "homepage": "https://villarreald92.github.io/Preentrega1-Villarreal-ReactJS/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
